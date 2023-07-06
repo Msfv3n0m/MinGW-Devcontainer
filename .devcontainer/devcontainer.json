@@ -1,0 +1,9 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/cpp",
+
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-vscode.cpptools"]
+    }
+  }
+}
