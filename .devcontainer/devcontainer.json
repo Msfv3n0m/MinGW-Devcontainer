@@ -1,6 +1,8 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2-linux",
-
+  "name": "MinGW",
+	"build": {
+		"dockerfile": "Dockerfile"
+  },
   "customizations": {
     "vscode": {
       "extensions": ["ms-vscode.cpptools"]
