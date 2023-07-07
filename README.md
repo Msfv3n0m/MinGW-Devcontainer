@@ -1,4 +1,5 @@
 # MinGW-Devcontainer
+Just a little project for me to learn about Makefiles and explore MinGW
 ## Linux
 ### Codespaces
 Just run `make`!
