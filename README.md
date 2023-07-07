@@ -2,7 +2,7 @@
 ## Linux
 ### Codespaces
 Just run `make`!
-### Other
+### Not Codespaces
 ```
 sudo apt install mingw-w64 -y && \
 sudo apt install make -y
