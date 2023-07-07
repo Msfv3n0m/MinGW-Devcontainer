@@ -20,7 +20,8 @@ run:
 clean:
 	rm -rf $(TARGET).exe
 
-service: build
+service: 
+	build
 	cmd //C sc create $(SERVICE_NAME) binPath= "$P"
 	cmd //C sc start $(SERVICE_NAME)
 
