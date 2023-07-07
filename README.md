@@ -15,3 +15,5 @@ Then just run `make`!
 ![](https://github.com/Msfv3n0m/MinGW-Devcontainer/blob/main/install_packages.PNG)
 3. Add `C:\MinGW\bin` and `C:\MinGW\msys\1.0\bin` to the system's PATH environment variable
 4. Just run `make`!
+## VSCode 
+Get the `ms-vscode.cpptools` extension for intellisense and debugging
