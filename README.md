@@ -16,4 +16,5 @@ Then just run `make`!
 3. Add `C:\MinGW\bin` and `C:\MinGW\msys\1.0\bin` to the system's PATH environment variable
 4. Just run `make`!
 ## VSCode 
-Get the `ms-vscode.cpptools` extension for intellisense and debugging
+1. Install [VSCode](https://code.visualstudio.com/download)
+2. Get the `ms-vscode.cpptools` extension for intellisense and debugging
