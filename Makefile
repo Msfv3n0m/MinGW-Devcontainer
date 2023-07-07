@@ -11,4 +11,4 @@ else
 endif
 
 clean:
-	rm -rf main.exe
+	rm -rf $(TARGET).exe
