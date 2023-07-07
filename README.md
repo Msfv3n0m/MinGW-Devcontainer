@@ -1,5 +1,5 @@
 # MinGW-Devcontainer
-This project just opens a message box. The code found in this project is from Microsoft's documentation on the MessageBox win32 api at https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messagebox
+This project just opens a message box. The code found in this project is from Microsoft's documentation on the MessageBox win32 api [here](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messagebox) 
 ## Linux
 ### Codespaces
 Just run `make`!
