@@ -4,8 +4,8 @@ WIN_COMP	= mingw32-g++.exe
 LIN_COMP	= x86_64-w64-mingw32-g++-win32
 P			= "C:\\Users\\Administrator\\Downloads\\MinGW-Devcontainer-main\\MinGW-Devcontainer-main\\Win32\\Win32\\$(TARGET).exe"
 SERVICE_NAME	= aaaa
-test:
-	@echo $P
+
+default: service
 
 build:
 ifeq ($(OS),Msys)
