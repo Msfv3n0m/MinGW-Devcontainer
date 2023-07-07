@@ -13,5 +13,4 @@ Then just run `make`!
    - Only install the **mingw32-base**, **mingw32-gcc-g++**, and **msys-base-bin** packages
 ![](https://github.com/Msfv3n0m/MinGW-Devcontainer/blob/main/install_packages.PNG)
 3. Add `C:\MinGW\bin` and `C:\MinGW\msys\1.0\bin` to the system's PATH environment variable
-4. Rename `C:\MinGW\bin\mingw32-make.exe` to `make.exe`
-5. Just run `make`!
+4. Just run `make`!
