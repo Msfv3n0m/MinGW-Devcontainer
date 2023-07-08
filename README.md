@@ -10,9 +10,11 @@ sudo apt install make -y
 ```
 Then just run `make`!
 ## Windows
-1. Download [MinGW]([https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-win32/seh/x86_64-8.1.0-release-win32-seh-rt_v6-rev0.7z))
-3. Add `C:\MinGW\bin` and `C:\MinGW\msys\1.0\bin` to the system's PATH environment variable
-4. Just run `make`!
+1. Download [mingw64]([https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-win32/seh/x86_64-8.1.0-release-win32-seh-rt_v6-rev0.7z)) to `C:\mingw.zip`
+2. Download [7zip](https://www.7-zip.org/a/7z2301-x64.exe)
+3. Extract `C:\mingw.zip`
+4. Add `C:\mingw\mingw64\bin` to the system's PATH environment variable
+5. Just run `make`!
 ## VSCode 
 1. Install [VSCode](https://code.visualstudio.com/download)
 2. Get the `ms-vscode.cpptools` extension for intellisense and debugging
