@@ -1,7 +1,8 @@
 # MinGW-Devcontainer
 This project just opens a message box. The code found in this project is from Microsoft's documentation on the MessageBox win32 api [here](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messagebox) 
 ## Codespaces/Devcontainer
-Just run `make`!
+Just run `make`! </br>
+You can export the exe by running `python3 -m http.server` and opening the web page in a browser
 ## Linux
 ```
 sudo apt install mingw-w64 -y && \
