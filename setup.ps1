@@ -22,4 +22,5 @@ SystemPropertiesAdvanced.exe
 rm \mingw64.7z
 # Install VSCode
 Start-BitsTransfer -Source $vscode -Destination "$env:homepath\Downloads\vscode.exe"
-cmd /c start /wait "$env:homepath\Downloads\7z2301-x64.exe" /S
+cmd /c start /wait "$env:homepath\Downloads\vscode.exe" /S
+
