@@ -14,7 +14,7 @@ Then just run `make`!
 2. When the popup box shows up, click Environment Variables
 3. Click Okay (This updates the path environment variable)
 4. Click Okay
-5. Just run `make`! 
+5. Just run `make`! </br>
 OR
 1. Download [mingw64](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-win32/seh/x86_64-8.1.0-release-win32-seh-rt_v6-rev0.7z)
 2. Download and install [7zip](https://www.7-zip.org/a/7z2301-x64.exe)
