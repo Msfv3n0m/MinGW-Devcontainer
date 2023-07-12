@@ -1,1 +1,1 @@
-Powershell -C "Set-ExecutionPolicy Bypass; & '%cd%\install.ps1'"
+Powershell -C "Set-ExecutionPolicy Bypass; & '%cd%\setup.ps1'"
