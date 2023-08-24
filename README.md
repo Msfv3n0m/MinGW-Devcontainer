@@ -10,7 +10,7 @@ sudo apt install make -y
 ```
 Then just run `make`!
 ## Windows
-1. Run install.ps1 with admin privs
+1. Run setup.ps1 or setup.bat with admin privs
 2. When the popup box shows up, click Environment Variables
 3. Click Okay (This updates the path environment variable)
 4. Click Okay
